@@ -6,6 +6,8 @@
  
  ---
 
+ <br>
+ 
 ##📂 **ETAPA 0: Planteamiento del problema** 
 
 ### Introducción
@@ -25,19 +27,21 @@ Análizar el desempeño de las ventas a nivel nacional de "EmpowerTravel Store"
 ---
 
 ## 📂 **ETAPA 1: Preprocesamiento de datos**
-Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis. Qué hacer:
+Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis. 
+Qué hacer:
  <br>
+ 
 -Comprueba si hay valores nulos o datos de valor faltante <br>
 -Menos datos duplicados <br>
 -Realiza consistencia de tipos y valores de datos(inapropiados o inconsistentes) <br>
 -Comprobando el valor atípico y datos que no son sesgo <br>
 
-Luego me aseguré de que el modelo de datos sea escalable y eficiente para consultas. Conecté la fuente de datos:
+Luego me aseguré de que el modelo de datos sea escalable y eficiente para consultas. De ese modo, realicé la conexión de la fuente de datos a Power BI:
 <br>
 
 <p align="center">
   <kbd> <img width="500" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/ventas_0.JPG"></kbd> <br>
-  Imagen 1: Diagrama de realciones de entidad
+  Imagen 1: Diagrama de relaciones de entidades
 </p>
 
 <br>
@@ -45,7 +49,7 @@ Luego me aseguré de que el modelo de datos sea escalable y eficiente para consu
 
 <p align="center">
   <kbd> <img width="800" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/ventas_1.JPG"></kbd> <br>
-  Imagen 1: Siseñando la visualización
+  Imagen 1: Diseñando la visualización
 </p>
 
 <br>
