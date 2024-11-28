@@ -8,7 +8,7 @@
  
 ##📂 **ETAPA 0: Planteamiento del problema** 
 
-
+<br>
 ### Introducción
 El análisis del desempeño empresarial es una clave importante para que las empresas logren el éxito en sus negocios. Las empresas pueden realizar análisis para identificar sus problemas, debilidades y fortalezas. Para el negocio "EmpowerTravel Store", es importante comprender los peligros de los clientes. Al comprender las preferencias de los clientes, las empresas pueden descubrir qué factores influyen en los clientes a la hora de realizar sus compras. Aparte de eso, las empresas también pueden identificar qué productos o servicios no se venden bien en el mercado. Esto se hace para ajustar las estrategias comerciales adecuadas para que las empresas puedan mejorar la experiencia del cliente y lograr objetivos comerciales a largo plazo.
 
