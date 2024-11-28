@@ -1,2 +1,63 @@
-# Seguimiento_de_ventas
-🛒 Análisis del desempeño de las ventas a nivel nacional de "EmpowerTravel Store" 
+# 🛒 **Seguimiento de ventas mediante la visualización de datos**
+ 
+**Herramienta** : Power BI <br>
+**Dataset** : Fundación Potenciar Solidario <br>
+ <br>
+ 
+ ---
+
+##📂 **ETAPA 0: Planteamiento del problema** 
+
+###Introducción
+El análisis del desempeño empresarial es una clave importante para que las empresas logren el éxito en sus negocios. Las empresas pueden realizar análisis para identificar sus problemas, debilidades y fortalezas. Para el negocio "EmpowerTravel Store", es importante comprender los peligros de los clientes. Al comprender las preferencias de los clientes, las empresas pueden descubrir qué factores influyen en los clientes a la hora de realizar sus compras. Aparte de eso, las empresas también pueden identificar qué productos o servicios no se venden bien en el mercado. Esto se hace para ajustar las estrategias comerciales adecuadas para que las empresas puedan mejorar la experiencia del cliente y lograr objetivos comerciales a largo plazo.
+
+###Preguntas del negocio
+-¿Qué tiendas tienen mayor facturación y identificar la frecuencia de las visitas de los clientes?
+-¿Cual es la factura total por productos?
+-¿El desfase de distancia entre tiendas afecta las ventas?
+ 
+###Objetivo
+Análizar el desempeño de las ventas a nivel nacional de "EmpowerTravel Store" 
+<br>
+<br>
+<br>
+
+---
+
+## 📂 **ETAPA 1: Preprocesamiento de datos**
+Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis. Qué hacer:
+
+-Comprueba si hay valores nulos o datos de valor faltante
+-Menos datos duplicados
+-Realiza consistencia de tipos y valores de datos(inapropiados o inconsistentes)
+-Comprobando el valor atípico y datos que no son sesgo
+
+Luego me aseguré de que el modelo de datos sea escalable y eficiente para consultas. Conecté la fuente de datos:
+<br>
+
+<p align="center">
+  <kbd> <img width="400" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/ventas_0.JPG"></kbd> <br>
+  Imagen 1: Diagrama de realciones de entidad
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <kbd> <img width="400" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/ventas_1.JPG"></kbd> <br>
+  Imagen 1: Siseñando la visualización
+</p>
+
+<br>
+
+## 📂 **ETAPA 2: Análisis de datos**
+<br>
+
+<p align="center">
+  <kbd> <img width="700" alt="eer" src="https://drive.google.com/file/d/1Zhx3zTInKo_D6ArDLr3bB4LdBdVbIUjE/view?usp=sharing"></kbd> <br>
+</p>
+
+<br>
+
+
+
