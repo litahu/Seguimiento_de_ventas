@@ -41,6 +41,13 @@ Luego me aseguré de que el modelo de datos sea escalable y eficiente para consu
 </p>
 
 <br>
+
+## 📂 **ETAPA 2: Análisis de datos**
+<br>
+
+Gracias a la interactividad del reporte logré el objetivo designado - [Ver panel](https://drive.google.com/file/d/1Zhx3zTInKo_D6ArDLr3bB4LdBdVbIUjE/view?usp=sharing) <br>
+
+<br>
 <br>
 
 <p align="center">
@@ -49,13 +56,5 @@ Luego me aseguré de que el modelo de datos sea escalable y eficiente para consu
 </p>
 
 <br>
-
-## 📂 **ETAPA 2: Análisis de datos**
-<br>
-
-Gracias a la interactividad del reporte logré el objetivo designado - [Ver panel](https://drive.google.com/file/d/1Zhx3zTInKo_D6ArDLr3bB4LdBdVbIUjE/view?usp=sharing) <br>
-
-<br>
-
 
 
