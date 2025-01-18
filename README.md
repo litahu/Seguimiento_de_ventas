@@ -46,7 +46,7 @@ Luego me aseguré de que el modelo de datos sea escalable y eficiente para consu
 
 <p align="center">
   <kbd> <img width="800" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/muestra_power.gif"></kbd> <br>
-  Imagen 1: Diseñando la visualización
+  Imagen 1: Visualización de datos
 </p>
 
 <br>
