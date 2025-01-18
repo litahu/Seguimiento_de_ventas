@@ -1,4 +1,4 @@
-# 🛒 **Seguimiento de ventas mediante la visualización de datos**
+# 🛒 **Seguimiento de ventas**
  
 **Herramienta** : Power BI <br>
 **Dataset** : Fundación Potenciar Solidario <br>
@@ -16,7 +16,6 @@ El análisis del desempeño empresarial es una clave importante para que las emp
  
 ### Objetivo
 Análizar el desempeño de las ventas a nivel nacional de "EmpowerTravel Store" 
-<br>
 <br>
 <br>
 
@@ -45,13 +44,8 @@ Luego me aseguré de que el modelo de datos sea escalable y eficiente para consu
 ## 📂 **ETAPA 2: Análisis de datos**
 <br>
 
-Gracias a la interactividad del reporte logré el objetivo designado - [Ver panel](https://drive.google.com/file/d/1Zhx3zTInKo_D6ArDLr3bB4LdBdVbIUjE/view?usp=sharing) <br>
-
-<br>
-<br>
-
 <p align="center">
-  <kbd> <img width="800" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/ventas_1.JPG"></kbd> <br>
+  <kbd> <img width="800" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/muestra_power.gif"></kbd> <br>
   Imagen 1: Diseñando la visualización
 </p>
 
