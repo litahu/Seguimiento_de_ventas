@@ -16,9 +16,8 @@ Al comprender las preferencias de los clientes, las empresas pueden descubrir qu
 Análizar el desempeño de las ventas a nivel nacional de "EmpowerTravel Store" 
 
 
----
 ## 📂 **ETAPA 1: Análisis de datos**
-Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis. \n
+Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis.
 Ver: [Notebook](https://github.com/litahu/Seguimiento_de_ventas/blob/main/EmpowerTravel.ipynb)
 
 **Qué hacer:**
@@ -26,6 +25,7 @@ Ver: [Notebook](https://github.com/litahu/Seguimiento_de_ventas/blob/main/Empowe
 - Menos datos duplicados <br>
 - Realizo consistencia de tipos y valores de datos(inapropiados o inconsistentes) <br>
 - Compruebo el valor atípico y datos que no son sesgo <br>
+<br>
 
 ```
 === ANÁLISIS COMPARATIVO COMPLETO ===
