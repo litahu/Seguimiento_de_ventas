@@ -1,7 +1,7 @@
 # 🛒 **Seguimiento de ventas**
  
-**Herramienta** : Python, Jupyter Notebook y Power BI <br>
-
+**Herramienta** : Python, Jupyter Notebook y Power BI 
+<br>
  
 ## 📂 **ETAPA 0: Planteamiento del problema** 
 ### Introducción
@@ -14,21 +14,19 @@ El análisis del desempeño empresarial es una clave importante para que las emp
  
 ### Objetivo
 Análizar el desempeño de las ventas a nivel nacional de "EmpowerTravel Store" 
-<br>
+
 
 
 ## 📂 **ETAPA 1: Análisis de datos**
-Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis. 
+Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis. \n
 Ver: [Notebook](https://github.com/litahu/Seguimiento_de_ventas/blob/main/EmpowerTravel.ipynb)
 
-Qué hacer:
- <br>
+**Qué hacer:**
 - Compruebo si hay valores nulos o datos de valor faltante <br>
 - Menos datos duplicados <br>
 - Realizo consistencia de tipos y valores de datos(inapropiados o inconsistentes) <br>
 - Compruebo el valor atípico y datos que no son sesgo <br>
 
-<br>
 
 '''
 === ANÁLISIS COMPARATIVO COMPLETO ===
@@ -66,14 +64,14 @@ Comparativa con la mejor tienda (Tienda 3):
 Diferencia en eficiencia: 535.70
 '''
 
-<br>
+
 
 ## 📂 **ETAPA 2: Visualización de datos**
-Luego me aseguré de que el modelo de datos sea escalable y eficiente para consultas. De ese modo, realicé la conexión de la fuente de datos a Power BI:
+Luego me aseguré de que el modelo de datos sea escalable y eficiente para consultas. 
+De ese modo, realicé la conexión de la fuente de datos a Power BI:
 
 <p align="center">
   <kbd> <img width="800" alt="eer" src="https://github.com/litahu/Seguimiento_de_ventas/blob/main/Assets/final_inform.PNG"></kbd> <br>
-  Imagen 1: Visualización de datos
 </p>
 
 <br>
