@@ -1,6 +1,6 @@
 # 🛒 **Seguimiento de ventas**
  **Herramientas:** Python, Jupyter Notebook y Power BI
-<br>
+<br><br>
 
 ## 📂 **ETAPA 0: Planteamiento del problema** 
 ### Introducción
