@@ -1,8 +1,7 @@
 # 🛒 **Seguimiento de ventas**
  
-**Herramienta** : Python, Jupyter Notebook, Power BI <br>
+**Herramienta** : Python, Jupyter Notebook y Power BI <br>
 
- ---
  
 ## 📂 **ETAPA 0: Planteamiento del problema** 
 ### Introducción
@@ -16,9 +15,7 @@ El análisis del desempeño empresarial es una clave importante para que las emp
 ### Objetivo
 Análizar el desempeño de las ventas a nivel nacional de "EmpowerTravel Store" 
 <br>
-<br>
 
----
 
 ## 📂 **ETAPA 1: Análisis de datos**
 Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis. 
@@ -32,6 +29,7 @@ Qué hacer:
 - Compruebo el valor atípico y datos que no son sesgo <br>
 
 <br>
+
 '''
 === ANÁLISIS COMPARATIVO COMPLETO ===
           Facturación Total  Facturación Promedio  Calificación Promedio  \
