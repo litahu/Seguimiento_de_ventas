@@ -1,7 +1,7 @@
 # 🛒 **Seguimiento de ventas**
  
 **Herramienta** : Power BI <br>
-**Dataset** : Fundación Potenciar Solidario <br>
+**Dataset** : Datatux <br>
  
  ---
  
