@@ -1,5 +1,6 @@
 # 🛒 **Seguimiento de ventas**
- **Herramientas:** Python, Jupyter Notebook y Power BI
+ Herramientas: Python, [Jupyter Notebook](https://github.com/litahu/Seguimiento_de_ventas/blob/main/EmpowerTravel.ipynb)
+ Visualización: Power BI
 <br><br>
 
 ## 📂 **ETAPA 0: Planteamiento del problema** 
@@ -18,7 +19,6 @@ Análizar el desempeño de las ventas a nivel nacional de "EmpowerTravel Store"
 
 ## 📂 **ETAPA 1: Análisis de datos**
 Llevé a cabo la evaluación de datos para garantizar que los datos estén listos y de acuerdo con las necesidades del análisis.<br>
-Ver: [Notebook](https://github.com/litahu/Seguimiento_de_ventas/blob/main/EmpowerTravel.ipynb)
 
 **Qué hacer:**
 - Compruebo si hay valores nulos o datos de valor faltante <br>
