@@ -64,7 +64,7 @@ Diferencia en eficiencia: 535.70
 ```
 
 ## 📂 **ETAPA 2: Visualización de datos**
-Luego me aseguré de que el modelo de datos sea escalable y eficiente para consultas a mayor detalle de la Tienda 1 <br>
+Luego me aseguré de que el modelo de datos sea escalable y eficiente para consultas a mayor detalle de la Tiendas <br>
 De ese modo, realicé la conexión de la fuente de datos a Power BI:
 
 <p align="center">
