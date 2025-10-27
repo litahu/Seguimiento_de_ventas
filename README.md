@@ -1,5 +1,5 @@
 # 🛒 **Seguimiento de ventas**
- Herramientas: Python, [Jupyter Notebook](https://github.com/litahu/Seguimiento_de_ventas/blob/main/EmpowerTravel.ipynb)
+ Herramientas: Python, [Jupyter Notebook](https://github.com/litahu/Seguimiento_de_ventas/blob/main/EmpowerTravel.ipynb) <br>
  Visualización: Power BI
 <br><br>
 
